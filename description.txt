@@ -1,0 +1,6 @@
+"In our youth, the heavens were revered and worshipped for their sheer complexity, majesty, and the insight they constantly provided into our existance. However, those times are long past. The corruption of the stars and their goddess have all but destroyed our people. We are one of the few that are left."
+	- The Astronomer/Astrologist
+
+	The Stuff of Legends is a content mod which aims to add a unique story to the game of Terraria. This will include new characters with their own stories, as well as fleshing out and providing new lore for the existing enemies, NPCs, and Bosses already in the game. Along with this, this mod will add a new mechanic known as Insight, which is a new reasource for you to manage along with Health and Mana.
+
+	Note: As I am currently the only person working on this mod, don't expect consistent or quick updates. I have my own life outside of this project, and I'm largely moving at my own pace.

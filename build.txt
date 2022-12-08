@@ -1,0 +1,3 @@
+displayName = Stuff Of Legends
+author = LunarCod
+version = 0.1
